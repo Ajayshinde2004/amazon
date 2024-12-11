@@ -1,2 +1,2 @@
 # amazon
-Auther - Ajay Shinde
+Author- Ajay Shinde
